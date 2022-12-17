@@ -1,0 +1,39 @@
+options=
+{
+	["difficulty"]=
+	{
+		["RBDAI"]=true,
+		["aircraftMode"]=true,
+		["avionicsLanguage"]="english",
+		["birds"]=150,
+		["cockpitStatusBarAllowed"]=false,
+		["cockpitVisualRM"]=false,
+		["compassTape"]=true,
+		["controlsIndicator"]=true,
+		["easyCommunication"]=false,
+		["easyFlight"]=false,
+		["easyRadar"]=false,
+		["externalViews"]=true,
+		["fuel"]=false,
+		["geffect"]="realistic",
+		["hideStick"]=false,
+		["iconsTheme"]="nato",
+		["immortal"]=false,
+		["labels"]=false,
+		["map"]=true,
+		["miniHUD"]=false,
+		["optionsView"]="optview_all",
+		["padlock"]=false,
+		["permitCrash"]=false,
+		["radio"]=false,
+		["reports"]=true,
+		["setGlobal"]=true,
+		["spectatorExternalViews"]=true,
+		["tips"]=true,
+		["units"]="metric",
+		["userMarks"]=true,
+		["userSnapView"]=true,
+		["weapons"]=false
+	},
+	["playerName"]="PyDCS"
+}
