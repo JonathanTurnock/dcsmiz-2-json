@@ -10,3 +10,7 @@ lua run-me.lua
 ```
 
 The result will be a printed JSON object of the mission file data table
+
+## References
+
+https://github.com/grafi-tt/lunajson
