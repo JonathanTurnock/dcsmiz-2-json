@@ -9,7 +9,7 @@ https://github.com/rjpcomputing/luaforwindows/releases
 
 ## Usage
 
-Checkout the project, unzip the .miz file using 7z and copy the `mission` file into the checked out repo
+Checkout the project, unzip a `.miz` file using 7z and copy the `mission` file into the checked out repo location
 
 ```
 lua run-me.lua
