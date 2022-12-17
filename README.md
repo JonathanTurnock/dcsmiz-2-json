@@ -1,6 +1,12 @@
 # dcsmiz-2-json
 Tiny LUA Script to transform DCS Mission File to JSON
 
+## Prerequisites
+
+Lua for windows
+
+https://github.com/rjpcomputing/luaforwindows/releases
+
 ## Usage
 
 Checkout the project, unzip the .miz file using 7z and copy the `mission` file into the checked out repo
